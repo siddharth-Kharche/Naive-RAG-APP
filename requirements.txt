@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain_openai
+pinecone-client
+datasets
+pandas
+athina
+faiss-gpu
